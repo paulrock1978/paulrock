@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!-- Student Name: Paulo Frias
+     File Name: index.html
+     Date: 09/21/2025
+-->
+<html lang="en">
+<head> 
+    <title>Insurance Home Page</title>
+    <meta charset="utf-8">
+</head>
+<body>
+
+
+<header>
+    <h1>&#9836; Debbie Insurance &#9836;</h1>
+</header>
+<!-- Use the Header area to add logo. Static. -->
+
+<nav>
+<!-- Use the nav area to add the ling of the webpage. Static. --> 
+    <p>Home &nbsp; &#9838; &nbsp;  
+       Car &nbsp; &#9838; &nbsp;  
+       House &nbsp; &#9838; &nbsp;
+       Life &nbsp; &#9838; &nbsp;
+       Contact</p> 
+</nav>
+<!-- Use the main area to add the main content to the webpage -->
+
+<main> 
+<!-- Use the main area to add info. Static. -->
+ <p>Welcome toDebbie L Insurance. We are a Houston Company, specializing in Insurance services. Our mission is to provide the best insurance for every person.</p>
+
+<p>We provide assitance, quote and suppor for free. Contact us today!</p>
+    
+</main>
+
+<footer>
+<!-- Use the footer area to add contact info. Static. -->
+        <p>&copy; Copyright 2021. All Rights Reserved.</p>
+        <p>Debbiel@Debbie insurance.net</p>
+</footer>
+
+</body>
+</html>                 
